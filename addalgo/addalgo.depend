@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646468189 source:g:\src\codeblocks\addalgo\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+
